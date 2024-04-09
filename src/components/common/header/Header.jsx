@@ -25,13 +25,10 @@ const Header = () => {
                     <li>
                         <Link to='/contact'>Contact</Link>
                     </li>
-                    <li>
-                        <Link to='/'>Signin</Link>
-                    </li>
                 </ul>
                 <div className='start'>
                     <div className="button">
-                        <Link to='/'>GET CERTIFICATE</Link>
+                        <Link to='/'>Log out</Link>
                         </div>
                 </div>
                 <button className='toggle' onClick={() => setClick(!click)}>

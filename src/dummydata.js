@@ -3,13 +3,13 @@ export const homeAbout = [
       id: 1,
       cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
       title: "Online Courses",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Empower Your Learning Journey: Unlock your potential with our online courses tailored to your interests and goals. Start your learning journey today!",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
       title: "Earn A Certificates",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Achieve Your Milestones: Earn certificates as you progress through our online courses. Take your learning to the next level and achieve your milestones with recognized certifications.",
     },
     {
       id: 1,
@@ -45,11 +45,11 @@ export const homeAbout = [
     {
       id: 1,
       cover: "../image/cla.jpg",
-      coursesName: "Introducing to Software Engineering",
+      coursesName: "Mathematics for 2ndc",
       courTeacher: [
         {
           dcover: "./image/cla.jpg",
-          name: "by John Smith",
+          name: "",
           totalTime: "50 lectures (190 hrs)",
         },
       ],
@@ -58,12 +58,12 @@ export const homeAbout = [
     },
     {
       id: 2,
-      cover: "../images/courses/c2.png",
+      cover: "./image/cla.jpg",
       coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Ram Gurung",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "30 lectures (125 hrs)",
         },
       ],
@@ -72,12 +72,12 @@ export const homeAbout = [
     },
     {
       id: 3,
-      cover: "../images/courses/c3.png",
-      coursesName: "HTML, CSS, and Javascript for Web Developers",
+      cover: "./image/cla.jpg",
+      coursesName: "Science and physics",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Saroj Nepal",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "50 lectures (50 hrs)",
         },
       ],
@@ -86,12 +86,12 @@ export const homeAbout = [
     },
     {
       id: 4,
-      cover: "../images/courses/c4.png",
-      coursesName: "Introducing to Programming with WordPress",
+      cover: "../image/cla.jpg",
+      coursesName: "life and earth sciences",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Prabin Thapa Mager",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "20 lectures (20 hrs)",
         },
       ],
@@ -100,12 +100,12 @@ export const homeAbout = [
     },
     {
       id: 5,
-      cover: "../images/courses/c5.png",
-      coursesName: "Introducing to Programming with ReactJS",
+      cover: "./image/cla.jpg",
+      coursesName: "French Courses",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "100 lectures (150 hrs)",
         },
       ],
@@ -114,12 +114,12 @@ export const homeAbout = [
     },
     {
       id: 6,
-      cover: "../images/courses/c6.png",
-      coursesName: "Learn Frontend Programming Language",
+      cover: "./image/cla.jpg",
+      coursesName: "philosophy",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "200 lectures (300 hrs)",
         },
       ],
@@ -128,11 +128,11 @@ export const homeAbout = [
     },
     {
       id: 7,
-      cover: "../images/courses/c7.png",
-      coursesName: "Introducing to with HTML / CSS",
+      cover: "./image/cla.jpg",
+      coursesName: "Grammar",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
+          dcover: "./image/cla.jpg",
           name: "by Price",
           totalTime: "20 lectures (50 hrs)",
         },
@@ -142,12 +142,12 @@ export const homeAbout = [
     },
     {
       id: 8,
-      cover: "../images/courses/c8.png",
-      coursesName: "Introducing to with JAVA",
+      cover: "./image/cla.jpg",
+      coursesName: "English",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Petter",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "80 lectures (200 hrs)",
         },
       ],
@@ -156,12 +156,12 @@ export const homeAbout = [
     },
     {
       id: 9,
-      cover: "../images/courses/c9.png",
-      coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+      cover: "./image/cla.jpg",
+      coursesName: "Spain",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Petter",
+          dcover: "./image/cla.jpg",
+          name: "",
           totalTime: "50 lectures (50 hrs)",
         },
       ],
@@ -171,26 +171,26 @@ export const homeAbout = [
   ]
   export const online = [
     {
-      cover: "./images/courses/online/o1.png",
-      hoverCover: "./images/courses/online/o1.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "UI/UX Design Courses",
       course: "25 Courses",
     },
     {
-      cover: "./images/courses/online/o2.png",
-      hoverCover: "./images/courses/online/o2.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Art & Design",
       course: "25 Courses",
     },
     {
-      cover: "./images/courses/online/o3.png",
-      hoverCover: "./images/courses/online/o3.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Computer Science",
       course: "10 Courses",
     },
     {
-      cover: "./images/courses/online/o4.png",
-      hoverCover: "./images/courses/online/o4.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "History & Archeologic",
       course: "15 Courses",
     },
@@ -201,44 +201,44 @@ export const homeAbout = [
       course: "30 Courses",
     },
     {
-      cover: "./images/courses/online/o6.png",
-      hoverCover: "./images/courses/online/o6.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Information Software",
       course: "60 Courses",
     },
     {
-      cover: "./images/courses/online/o7.png",
-      hoverCover: "./images/courses/online/o7.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Health & Fitness",
       course: "10 Courses",
     },
     {
-      cover: "./images/courses/online/o8.png",
-      hoverCover: "./images/courses/online/o8.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Marketing",
       course: "30 Courses",
     },
     {
-      cover: "./images/courses/online/o9.png",
-      hoverCover: "./images/courses/online/o9.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Graphic Design",
       course: "80 Courses",
     },
     {
-      cover: "./images/courses/online/o10.png",
-      hoverCover: "./images/courses/online/o10.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Music",
       course: "120 Courses",
     },
     {
-      cover: "./images/courses/online/o11.png",
-      hoverCover: "./images/courses/online/o11.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Business Administration",
       course: "17 Courses",
     },
     {
-      cover: "./images/courses/online/o12.png",
-      hoverCover: "./images/courses/online/o12.1.png",
+      cover: "./image/cla.jpg",
+      hoverCover: "./image/cla.jpg",
       courseName: "Web Management",
       course: "17 Courses",
     },
@@ -289,40 +289,40 @@ export const homeAbout = [
     {
       name: "BASIC PLAN",
       price: "49K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Affordable Investment: Unlock the power of our basic plan at just $49K. Make an affordable investment in your success today!",
     },
     {
       name: "BEGINNER PLAN",
       price: "79K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Begin Your Journey: Embark on your journey to success with our beginner plan priced at $79K. Start strong and pave the way for your future achievements",
     },
     {
       name: "PREMIUM PLAN",
       price: "109k",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Elevate Your Experience: Elevate your learning experience with our premium plan priced at $109K. Unlock exclusive features and accelerate your path to success.",
     },
     {
       name: "ULTIMATE PLAN",
       price: "149K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Unleash Your Potential: Unleash your full potential with our ultimate plan priced at $149K. Elevate your skills to unprecedented levels and conquer new horizons.",
     },
   ]
   export const faq = [
     {
       title: "How to Enroll This Online Courses?",
-      desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      desc: "Browse Courses: Explore our wide range of courses and choose the one that aligns with your interests and goals,Select Plan: Decide on the pricing plan that best suits your needs - whether it's our basic, beginner, premium, or ultimate plan. Create an Account: If you're a new user, create an account on our platform. Provide your basic details and set up a secure password, Choose Course: Once logged in, navigate to your desired course and click on the 'Enroll Now' or 'Get Started' button.",
     },
     {
-      title: "Where It is hidden by default, until the collapse?",
-      desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "How to do if I loose my course page?",
+      desc: "Check Email: Look through your email inbox for any confirmation or enrollment emails you received when you initially signed up for the course. These emails often contain direct links to access the course content.",
     },
     {
       title: "How It is hidden by default, until the collapse?",
       desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
     },
     {
-      title: "How to Enroll This Online Courses?",
-      desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+      title: "How to contact the support client?",
+      desc: "isit the Website: Go to the website of the service or platform you need assistance with.Use Contact Form: Many websites offer a contact form where you can fill out your inquiry and submit it directly to their support team. Provide as much detail as possible about your issue or question.",
     },
     {
       title: "Where It is hidden by default, until the collapse?",
@@ -337,29 +337,29 @@ export const homeAbout = [
     {
       id: 1,
       type: "admin",
-      date: "JAN. 18, 2021",
+      date: "JAN. 18, 2024",
       com: "3 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
+      title: "Start to learn now what you want easily",
       desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b1.webp",
+      cover: "../image/cla.jpg",
     },
     {
       id: 2,
       type: "admin",
-      date: "API. 25, 2022",
+      date: "Feb. 25, 2024",
       com: "5 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
+      title: "Come with us!",
       desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b2.webp",
+      cover: "../image/cla.jpg",
     },
     {
       id: 3,
       type: "user",
       date: "MAY. 15, 2022",
       com: "10 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
+      title: "Build your Dream and become better in your classroom",
       desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b3.webp",
+      cover: "../image/cla.jpg",
     },
     {
       id: 4,

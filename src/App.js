@@ -6,6 +6,7 @@ import About from "./components/about/About";
 import CourseHome from "./components/allcourses/CourseHome";
 import Pricing from "./components/pricing/Pricing";
 import Blog from "./components/blog/Blog";
+import Contact from "./components/common/Contact/Contact";
 import Footer from "./components/common/footer/Footer";
 import Home from "./components/home/Home";
 import Signin from "./components/login/Signin";
@@ -17,7 +18,6 @@ import ProtectedRoute from "./components/ProtectRouter";
 function App() {
   return (
     <AuthContextProvider>
-      <Header />
       <Routes>
       <Route path="/" element={<Signin />} />
         <Route exact path="/Home" element={<Home />} />
@@ -27,6 +27,7 @@ function App() {
         <Route path="/courses" element={<CourseHome />} />
         <Route path="/pricing" element={<Pricing />} />
         <Route path="/journal" element={<Blog />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
       <Footer />
     </AuthContextProvider>
